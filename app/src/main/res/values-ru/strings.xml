@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Будильник</string>
+    <string name="setalarm">Будильник установлен</string>
+    <string name="dialog_title">Важно!</string>
+    <string name="dialog_text_permission">Для того чтобы приложение корректно работало, зайдите в настройки и включите разрешение ОТОБРАЖАТЬ ПОВЕРХ ДРУГИХ ПРИЛОЖЕНИЙ</string>
+    <string name="alarm_cancel_btn_main_activity">Будильник отменён</string>
+    <string name="notification_title">Будильник фристайлер</string>
+    <string name="notification_text">\Господь придёт в \</string>
+    <string name="Snooze_text_btn">Нет)))</string>
+    <string name="taps_for_end_start">Нажмите на кнопку</string>
+    <string name="tap_to_end_count">Нажмите на кнопку</string>
+    <string name="tap_for_end_time_1">Нажмите на кнопку</string>
+    <string name="taps_for_end_2">Нажмите на кнопку</string>
+    <string name="have_a_nice_day">Хорошего дня!</string>
+    <string name="alarm_freestyler"></string>
+    <string name="night_mode">Ночной режим</string>
+    <string name="set_alarm">Установить будильник</string>
+    <string name="good_morning">Доброе утро</string>
+    <string name="off_btn_wake_up">Выключить</string>
+    <string name="snooze_btn_wake_up">Отложить</string>
+    <string name="tap_or_taps">\ раз\</string>
+    <string name="tap_or_taps_2">\ раза\</string>
+    <string name="tap_or_taps_3">\ раз\</string>
+    <string name="tap_for_end_times_5">\ раз\</string>
+    <string name="btn_dialog_main_activity">oк</string>
+
+</resources>

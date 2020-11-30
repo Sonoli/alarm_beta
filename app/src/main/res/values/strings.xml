@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Alarm Freestyler</string>
+    <string name="setalarm">Alarm is set</string>
+    <string name="dialog_title">Attention!</string>
+    <string name="dialog_text_permission">For the application to work correctly, go to settings and allow DISPLAY OVER OTHER APPS</string>
+    <string name="alarm_cancel_btn_main_activity">Alarm canceled</string>
+    <string name="notification_title">Alarm freestyler</string>
+    <string name="notification_text">\Alarm set at \</string>
+    <string name="Snooze_text_btn">Nooo:3</string>
+    <string name="taps_for_end_start">Click the button</string>
+    <string name="tap_to_end_count">Click the button</string>
+    <string name="tap_for_end_time_1">Click the button</string>
+    <string name="taps_for_end_2">Click the button</string>
+    <string name="have_a_nice_day">Have a nice day!</string>
+    <string name="alarm_freestyler"></string>
+    <string name="night_mode">Night mode</string>
+    <string name="set_alarm">Start alarm-freestyler</string>
+    <string name="good_morning">Good morning</string>
+    <string name="off_btn_wake_up">Dismiss</string>
+    <string name="snooze_btn_wake_up">Snooze</string>
+    <string name="tap_or_taps">\ times\</string>
+    <string name="tap_or_taps_2">\ times\</string>
+    <string name="tap_or_taps_3">\ time\</string>
+    <string name="tap_for_end_times_5">\ times\</string>
+    <string name="btn_dialog_main_activity">ok</string>
+
+</resources>
